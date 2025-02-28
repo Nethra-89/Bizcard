@@ -1,4 +1,5 @@
-Bizcard
+# Bizcard
+
 Image Upload and OCR Processing
 User uploads an image (.png, .jpg, .jpeg) using Streamlit’s file_uploader.
 The uploaded image is displayed using st.image().
